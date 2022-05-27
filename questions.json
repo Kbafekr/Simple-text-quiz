@@ -1,0 +1,91 @@
+[
+    {
+        "question": "What did the Avengers eat after the invasion of New York?",
+        "choice1": "Schawarma",
+        "choice2": "Pizza",
+        "choice3": "Samosas",
+        "choice4": "Falafel",
+        "answer": 1
+    },
+    
+    {
+        "question": "How many in-person cameos has Stan Lee done for the MCU?",
+        "choice1": "20",
+        "choice2": "21",
+        "choice3": "22",
+        "choice4": "24",
+        "answer": 3
+    },
+
+    {
+        "question": "Who takes over the Black Widow mantle after Natasha Romanoff?",
+        "choice1": "Alexei Shostakov",
+        "choice2": "Melina Vostokoff",
+        "choice3": "Yelena Belova",
+        "choice4": "Kate Bishop",
+        "answer": 3
+    },
+    
+    {
+        "question": "Who founded the Time Variance Authority?",
+        "choice1": "The Collector",
+        "choice2": "Emil Blonsky",
+        "choice3": "Aldrich Killian",
+        "choice4": "Nathaniel Richards",
+        "answer": 4
+    },
+    
+    {
+        "question": "What year does Avengers: Endgame take place in?",
+        "choice1": "2022",
+        "choice2": "2023",
+        "choice3": "2024",
+        "choice4": "2025",
+        "answer": 2
+    },
+    
+    {
+        "question": "What universe does the MCU take place in?",
+        "choice1": "813",
+        "choice2": "98",
+        "choice3": "Earth-2",
+        "choice4": "616",
+        "answer": 4
+    },
+    
+    {
+        "question": "Who caused Nick Fury to loose his eye?",
+        "choice1": "Hank Pym",
+        "choice2": "Ronan the Accuser",
+        "choice3": "Alexander Pierce",
+        "choice4": "Goose",
+        "answer": 4
+    },
+    
+    {
+        "question": "Who is Thor's mother?",
+        "choice1": "Sylvie",
+        "choice2": "Hela",
+        "choice3": "Frigga",
+        "choice4": "Sersi",
+        "answer": 3
+    },
+    
+    {
+        "question": "Star-Lord is half-human and half what?",
+        "choice1": "Kree",
+        "choice2": "Elfian",
+        "choice3": "Celestial",
+        "choice4": "Inhuman",
+        "answer": 3
+    },
+
+    {
+        "question": "Who introduced Wanda Maximoff to dark magic",
+        "choice1": "Evanora",
+        "choice2": "Agatha",
+        "choice3": "Clea",
+        "choice4": "Dr. Strange",
+        "answer": 2
+    }
+]
